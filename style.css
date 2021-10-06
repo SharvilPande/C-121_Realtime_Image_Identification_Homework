@@ -1,0 +1,102 @@
+#myCarousel {
+    background-color: firebrick;
+    width: 50%;
+    padding-bottom: 20px;
+    padding-left: 60px;
+    padding-top: 40px;
+    padding-right: 60px;
+}
+
+#myCarousel img {
+    height: 530px;
+    width: 100%;
+}
+
+.container {
+    margin-top: 4px;
+    height: 500px;
+    float: left;
+}
+
+#title {
+    top: 0;
+    margin-top: 9px;
+    margin-left: 0px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
+    border: 5px outset rgb(163, 66, 90);
+    /*outline: 3px solid white;*/
+    text-align: center;
+    box-shadow: 1px 3px 10px rgb(80, 78, 78);
+    text-shadow: 7px 1px 10px rgb(96, 150, 10);
+    width: 1500px; 
+    position: relative;
+    background: #eee;
+    margin-left: 20px;
+}
+
+p {
+    color: white;
+    border: 4px groove yellow;
+    margin-bottom: -20px;
+    background-image: linear-gradient(to right, green 30% , lightblue 100%);
+}
+
+#footer {
+    line-height: 2.5;
+    bottom: 0;
+    position: fixed;
+    background-color: rgb(146, 111, 21);
+    width: 100%;
+    text-align: center;
+    color: whitesmoke;
+    font-family: cursive;
+    font-size: 15px;
+}
+
+table, th, td {
+    border: 1px solid black;
+    /*float: right;*/
+}
+
+td, th {
+   text-align: center;
+}
+
+#box {
+    width:900px;
+    height:600px;
+    background-color:#e0c694;
+    position:fixed;
+    margin-left:90px;
+    margin-top:-290px; 
+    top:50%;
+    left:34%;
+}
+
+.b {
+    font-weight: bold;
+    font-size: 15px;
+}
+
+th {
+    font-size: 15px !important;
+    font-weight: bolder;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
